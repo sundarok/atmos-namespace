@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  atmos-namespace:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-01-25T16:51:50.671224-08:00"
+    description: A Helm chart for creating namespace
+    digest: edac64e455f43416cc4fac60327a4da68984ecc5d41ec757bc416d4a1605723f
+    name: atmos-namespace
+    type: application
+    urls:
+    - https://sundarok.github.io/atmos-namespace/atmos-namespace-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-25T16:51:50.666882-08:00"
